@@ -1,0 +1,1160 @@
+[
+    {
+        "id": 4,
+        "text": "Afghanistan",
+        "alpha2": "af",
+        "alpha3": "afg"
+    },
+    {
+        "id": 818,
+        "text": "Ägypten",
+        "alpha2": "eg",
+        "alpha3": "egy"
+    },
+    {
+        "id": 8,
+        "text": "Albanien",
+        "alpha2": "al",
+        "alpha3": "alb"
+    },
+    {
+        "id": 12,
+        "text": "Algerien",
+        "alpha2": "dz",
+        "alpha3": "dza"
+    },
+    {
+        "id": 20,
+        "text": "Andorra",
+        "alpha2": "ad",
+        "alpha3": "and"
+    },
+    {
+        "id": 24,
+        "text": "Angola",
+        "alpha2": "ao",
+        "alpha3": "ago"
+    },
+    {
+        "id": 28,
+        "text": "Antigua und Barbuda",
+        "alpha2": "ag",
+        "alpha3": "atg"
+    },
+    {
+        "id": 226,
+        "text": "Äquatorialguinea",
+        "alpha2": "gq",
+        "alpha3": "gnq"
+    },
+    {
+        "id": 32,
+        "text": "Argentinien",
+        "alpha2": "ar",
+        "alpha3": "arg"
+    },
+    {
+        "id": 51,
+        "text": "Armenien",
+        "alpha2": "am",
+        "alpha3": "arm"
+    },
+    {
+        "id": 31,
+        "text": "Aserbaidschan",
+        "alpha2": "az",
+        "alpha3": "aze"
+    },
+    {
+        "id": 231,
+        "text": "Äthiopien",
+        "alpha2": "et",
+        "alpha3": "eth"
+    },
+    {
+        "id": 36,
+        "text": "Australien",
+        "alpha2": "au",
+        "alpha3": "aus"
+    },
+    {
+        "id": 44,
+        "text": "Bahamas",
+        "alpha2": "bs",
+        "alpha3": "bhs"
+    },
+    {
+        "id": 48,
+        "text": "Bahrain",
+        "alpha2": "bh",
+        "alpha3": "bhr"
+    },
+    {
+        "id": 50,
+        "text": "Bangladesch",
+        "alpha2": "bd",
+        "alpha3": "bgd"
+    },
+    {
+        "id": 52,
+        "text": "Barbados",
+        "alpha2": "bb",
+        "alpha3": "brb"
+    },
+    {
+        "id": 112,
+        "text": "Weißrussland",
+        "alpha2": "by",
+        "alpha3": "blr"
+    },
+    {
+        "id": 56,
+        "text": "Belgien",
+        "alpha2": "be",
+        "alpha3": "bel"
+    },
+    {
+        "id": 84,
+        "text": "Belize",
+        "alpha2": "bz",
+        "alpha3": "blz"
+    },
+    {
+        "id": 204,
+        "text": "Benin",
+        "alpha2": "bj",
+        "alpha3": "ben"
+    },
+    {
+        "id": 64,
+        "text": "Bhutan",
+        "alpha2": "bt",
+        "alpha3": "btn"
+    },
+    {
+        "id": 68,
+        "text": "Bolivien",
+        "alpha2": "bo",
+        "alpha3": "bol"
+    },
+    {
+        "id": 70,
+        "text": "Bosnien und Herzegowina",
+        "alpha2": "ba",
+        "alpha3": "bih"
+    },
+    {
+        "id": 72,
+        "text": "Botswana",
+        "alpha2": "bw",
+        "alpha3": "bwa"
+    },
+    {
+        "id": 76,
+        "text": "Brasilien",
+        "alpha2": "br",
+        "alpha3": "bra"
+    },
+    {
+        "id": 96,
+        "text": "Brunei",
+        "alpha2": "bn",
+        "alpha3": "brn"
+    },
+    {
+        "id": 100,
+        "text": "Bulgarien",
+        "alpha2": "bg",
+        "alpha3": "bgr"
+    },
+    {
+        "id": 854,
+        "text": "Burkina Faso",
+        "alpha2": "bf",
+        "alpha3": "bfa"
+    },
+    {
+        "id": 108,
+        "text": "Burundi",
+        "alpha2": "bi",
+        "alpha3": "bdi"
+    },
+    {
+        "id": 152,
+        "text": "Chile",
+        "alpha2": "cl",
+        "alpha3": "chl"
+    },
+    {
+        "id": 156,
+        "text": "Volksrepublik China",
+        "alpha2": "cn",
+        "alpha3": "chn"
+    },
+    {
+        "id": 188,
+        "text": "Costa Rica",
+        "alpha2": "cr",
+        "alpha3": "cri"
+    },
+    {
+        "id": 384,
+        "text": "Elfenbeinküste",
+        "alpha2": "ci",
+        "alpha3": "civ"
+    },
+    {
+        "id": 208,
+        "text": "Dänemark",
+        "alpha2": "dk",
+        "alpha3": "dnk"
+    },
+    {
+        "id": 276,
+        "text": "Deutschland",
+        "alpha2": "de",
+        "alpha3": "deu"
+    },
+    {
+        "id": 212,
+        "text": "Dominica",
+        "alpha2": "dm",
+        "alpha3": "dma"
+    },
+    {
+        "id": 214,
+        "text": "Dominikanische Republik",
+        "alpha2": "do",
+        "alpha3": "dom"
+    },
+    {
+        "id": 262,
+        "text": "Dschibuti",
+        "alpha2": "dj",
+        "alpha3": "dji"
+    },
+    {
+        "id": 218,
+        "text": "Ecuador",
+        "alpha2": "ec",
+        "alpha3": "ecu"
+    },
+    {
+        "id": 222,
+        "text": "El Salvador",
+        "alpha2": "sv",
+        "alpha3": "slv"
+    },
+    {
+        "id": 232,
+        "text": "Eritrea",
+        "alpha2": "er",
+        "alpha3": "eri"
+    },
+    {
+        "id": 233,
+        "text": "Estland",
+        "alpha2": "ee",
+        "alpha3": "est"
+    },
+    {
+        "id": 748,
+        "text": "Swasiland",
+        "alpha2": "sz",
+        "alpha3": "swz"
+    },
+    {
+        "id": 242,
+        "text": "Fidschi",
+        "alpha2": "fj",
+        "alpha3": "fji"
+    },
+    {
+        "id": 246,
+        "text": "Finnland",
+        "alpha2": "fi",
+        "alpha3": "fin"
+    },
+    {
+        "id": 250,
+        "text": "Frankreich",
+        "alpha2": "fr",
+        "alpha3": "fra"
+    },
+    {
+        "id": 266,
+        "text": "Gabun",
+        "alpha2": "ga",
+        "alpha3": "gab"
+    },
+    {
+        "id": 270,
+        "text": "Gambia",
+        "alpha2": "gm",
+        "alpha3": "gmb"
+    },
+    {
+        "id": 268,
+        "text": "Georgien",
+        "alpha2": "ge",
+        "alpha3": "geo"
+    },
+    {
+        "id": 288,
+        "text": "Ghana",
+        "alpha2": "gh",
+        "alpha3": "gha"
+    },
+    {
+        "id": 308,
+        "text": "Grenada",
+        "alpha2": "gd",
+        "alpha3": "grd"
+    },
+    {
+        "id": 300,
+        "text": "Griechenland",
+        "alpha2": "gr",
+        "alpha3": "grc"
+    },
+    {
+        "id": 320,
+        "text": "Guatemala",
+        "alpha2": "gt",
+        "alpha3": "gtm"
+    },
+    {
+        "id": 324,
+        "text": "Guinea",
+        "alpha2": "gn",
+        "alpha3": "gin"
+    },
+    {
+        "id": 624,
+        "text": "Guinea-Bissau",
+        "alpha2": "gw",
+        "alpha3": "gnb"
+    },
+    {
+        "id": 328,
+        "text": "Guyana",
+        "alpha2": "gy",
+        "alpha3": "guy"
+    },
+    {
+        "id": 332,
+        "text": "Haiti",
+        "alpha2": "ht",
+        "alpha3": "hti"
+    },
+    {
+        "id": 340,
+        "text": "Honduras",
+        "alpha2": "hn",
+        "alpha3": "hnd"
+    },
+    {
+        "id": 356,
+        "text": "Indien",
+        "alpha2": "in",
+        "alpha3": "ind"
+    },
+    {
+        "id": 360,
+        "text": "Indonesien",
+        "alpha2": "id",
+        "alpha3": "idn"
+    },
+    {
+        "id": 368,
+        "text": "Irak",
+        "alpha2": "iq",
+        "alpha3": "irq"
+    },
+    {
+        "id": 364,
+        "text": "Iran",
+        "alpha2": "ir",
+        "alpha3": "irn"
+    },
+    {
+        "id": 372,
+        "text": "Irland",
+        "alpha2": "ie",
+        "alpha3": "irl"
+    },
+    {
+        "id": 352,
+        "text": "Island",
+        "alpha2": "is",
+        "alpha3": "isl"
+    },
+    {
+        "id": 376,
+        "text": "Israel",
+        "alpha2": "il",
+        "alpha3": "isr"
+    },
+    {
+        "id": 380,
+        "text": "Italien",
+        "alpha2": "it",
+        "alpha3": "ita"
+    },
+    {
+        "id": 388,
+        "text": "Jamaika",
+        "alpha2": "jm",
+        "alpha3": "jam"
+    },
+    {
+        "id": 392,
+        "text": "Japan",
+        "alpha2": "jp",
+        "alpha3": "jpn"
+    },
+    {
+        "id": 887,
+        "text": "Jemen",
+        "alpha2": "ye",
+        "alpha3": "yem"
+    },
+    {
+        "id": 400,
+        "text": "Jordanien",
+        "alpha2": "jo",
+        "alpha3": "jor"
+    },
+    {
+        "id": 116,
+        "text": "Kambodscha",
+        "alpha2": "kh",
+        "alpha3": "khm"
+    },
+    {
+        "id": 120,
+        "text": "Kamerun",
+        "alpha2": "cm",
+        "alpha3": "cmr"
+    },
+    {
+        "id": 124,
+        "text": "Kanada",
+        "alpha2": "ca",
+        "alpha3": "can"
+    },
+    {
+        "id": 132,
+        "text": "Kap Verde",
+        "alpha2": "cv",
+        "alpha3": "cpv"
+    },
+    {
+        "id": 398,
+        "text": "Kasachstan",
+        "alpha2": "kz",
+        "alpha3": "kaz"
+    },
+    {
+        "id": 634,
+        "text": "Katar",
+        "alpha2": "qa",
+        "alpha3": "qat"
+    },
+    {
+        "id": 404,
+        "text": "Kenia",
+        "alpha2": "ke",
+        "alpha3": "ken"
+    },
+    {
+        "id": 417,
+        "text": "Kirgisistan",
+        "alpha2": "kg",
+        "alpha3": "kgz"
+    },
+    {
+        "id": 296,
+        "text": "Kiribati",
+        "alpha2": "ki",
+        "alpha3": "kir"
+    },
+    {
+        "id": 170,
+        "text": "Kolumbien",
+        "alpha2": "co",
+        "alpha3": "col"
+    },
+    {
+        "id": 174,
+        "text": "Komoren",
+        "alpha2": "km",
+        "alpha3": "com"
+    },
+    {
+        "id": 180,
+        "text": "Kongo, Demokratische Republik",
+        "alpha2": "cd",
+        "alpha3": "cod"
+    },
+    {
+        "id": 178,
+        "text": "Kongo, Republik",
+        "alpha2": "cg",
+        "alpha3": "cog"
+    },
+    {
+        "id": 408,
+        "text": "Korea, Nord",
+        "alpha2": "kp",
+        "alpha3": "prk"
+    },
+    {
+        "id": 410,
+        "text": "Korea, Süd",
+        "alpha2": "kr",
+        "alpha3": "kor"
+    },
+    {
+        "id": 191,
+        "text": "Kroatien",
+        "alpha2": "hr",
+        "alpha3": "hrv"
+    },
+    {
+        "id": 192,
+        "text": "Kuba",
+        "alpha2": "cu",
+        "alpha3": "cub"
+    },
+    {
+        "id": 414,
+        "text": "Kuwait",
+        "alpha2": "kw",
+        "alpha3": "kwt"
+    },
+    {
+        "id": 418,
+        "text": "Laos",
+        "alpha2": "la",
+        "alpha3": "lao"
+    },
+    {
+        "id": 426,
+        "text": "Lesotho",
+        "alpha2": "ls",
+        "alpha3": "lso"
+    },
+    {
+        "id": 428,
+        "text": "Lettland",
+        "alpha2": "lv",
+        "alpha3": "lva"
+    },
+    {
+        "id": 422,
+        "text": "Libanon",
+        "alpha2": "lb",
+        "alpha3": "lbn"
+    },
+    {
+        "id": 430,
+        "text": "Liberia",
+        "alpha2": "lr",
+        "alpha3": "lbr"
+    },
+    {
+        "id": 434,
+        "text": "Libyen",
+        "alpha2": "ly",
+        "alpha3": "lby"
+    },
+    {
+        "id": 438,
+        "text": "Liechtenstein",
+        "alpha2": "li",
+        "alpha3": "lie"
+    },
+    {
+        "id": 440,
+        "text": "Litauen",
+        "alpha2": "lt",
+        "alpha3": "ltu"
+    },
+    {
+        "id": 442,
+        "text": "Luxemburg",
+        "alpha2": "lu",
+        "alpha3": "lux"
+    },
+    {
+        "id": 450,
+        "text": "Madagaskar",
+        "alpha2": "mg",
+        "alpha3": "mdg"
+    },
+    {
+        "id": 454,
+        "text": "Malawi",
+        "alpha2": "mw",
+        "alpha3": "mwi"
+    },
+    {
+        "id": 458,
+        "text": "Malaysia",
+        "alpha2": "my",
+        "alpha3": "mys"
+    },
+    {
+        "id": 462,
+        "text": "Malediven",
+        "alpha2": "mv",
+        "alpha3": "mdv"
+    },
+    {
+        "id": 466,
+        "text": "Mali",
+        "alpha2": "ml",
+        "alpha3": "mli"
+    },
+    {
+        "id": 470,
+        "text": "Malta",
+        "alpha2": "mt",
+        "alpha3": "mlt"
+    },
+    {
+        "id": 504,
+        "text": "Marokko",
+        "alpha2": "ma",
+        "alpha3": "mar"
+    },
+    {
+        "id": 584,
+        "text": "Marshallinseln",
+        "alpha2": "mh",
+        "alpha3": "mhl"
+    },
+    {
+        "id": 478,
+        "text": "Mauretanien",
+        "alpha2": "mr",
+        "alpha3": "mrt"
+    },
+    {
+        "id": 480,
+        "text": "Mauritius",
+        "alpha2": "mu",
+        "alpha3": "mus"
+    },
+    {
+        "id": 484,
+        "text": "Mexiko",
+        "alpha2": "mx",
+        "alpha3": "mex"
+    },
+    {
+        "id": 583,
+        "text": "Mikronesien",
+        "alpha2": "fm",
+        "alpha3": "fsm"
+    },
+    {
+        "id": 498,
+        "text": "Moldau",
+        "alpha2": "md",
+        "alpha3": "mda"
+    },
+    {
+        "id": 492,
+        "text": "Monaco",
+        "alpha2": "mc",
+        "alpha3": "mco"
+    },
+    {
+        "id": 496,
+        "text": "Mongolei",
+        "alpha2": "mn",
+        "alpha3": "mng"
+    },
+    {
+        "id": 499,
+        "text": "Montenegro",
+        "alpha2": "me",
+        "alpha3": "mne"
+    },
+    {
+        "id": 508,
+        "text": "Mosambik",
+        "alpha2": "mz",
+        "alpha3": "moz"
+    },
+    {
+        "id": 104,
+        "text": "Myanmar",
+        "alpha2": "mm",
+        "alpha3": "mmr"
+    },
+    {
+        "id": 516,
+        "text": "Namibia",
+        "alpha2": "na",
+        "alpha3": "nam"
+    },
+    {
+        "id": 520,
+        "text": "Nauru",
+        "alpha2": "nr",
+        "alpha3": "nru"
+    },
+    {
+        "id": 524,
+        "text": "Nepal",
+        "alpha2": "np",
+        "alpha3": "npl"
+    },
+    {
+        "id": 554,
+        "text": "Neuseeland",
+        "alpha2": "nz",
+        "alpha3": "nzl"
+    },
+    {
+        "id": 558,
+        "text": "Nicaragua",
+        "alpha2": "ni",
+        "alpha3": "nic"
+    },
+    {
+        "id": 528,
+        "text": "Niederlande",
+        "alpha2": "nl",
+        "alpha3": "nld"
+    },
+    {
+        "id": 562,
+        "text": "Niger",
+        "alpha2": "ne",
+        "alpha3": "ner"
+    },
+    {
+        "id": 566,
+        "text": "Nigeria",
+        "alpha2": "ng",
+        "alpha3": "nga"
+    },
+    {
+        "id": 807,
+        "text": "Nordmazedonien",
+        "alpha2": "mk",
+        "alpha3": "mkd"
+    },
+    {
+        "id": 578,
+        "text": "Norwegen",
+        "alpha2": "no",
+        "alpha3": "nor"
+    },
+    {
+        "id": 512,
+        "text": "Oman",
+        "alpha2": "om",
+        "alpha3": "omn"
+    },
+    {
+        "id": 40,
+        "text": "Österreich",
+        "alpha2": "at",
+        "alpha3": "aut"
+    },
+    {
+        "id": 626,
+        "text": "Osttimor",
+        "alpha2": "tl",
+        "alpha3": "tls"
+    },
+    {
+        "id": 586,
+        "text": "Pakistan",
+        "alpha2": "pk",
+        "alpha3": "pak"
+    },
+    {
+        "id": 585,
+        "text": "Palau",
+        "alpha2": "pw",
+        "alpha3": "plw"
+    },
+    {
+        "id": 591,
+        "text": "Panama",
+        "alpha2": "pa",
+        "alpha3": "pan"
+    },
+    {
+        "id": 598,
+        "text": "Papua-Neuguinea",
+        "alpha2": "pg",
+        "alpha3": "png"
+    },
+    {
+        "id": 600,
+        "text": "Paraguay",
+        "alpha2": "py",
+        "alpha3": "pry"
+    },
+    {
+        "id": 604,
+        "text": "Peru",
+        "alpha2": "pe",
+        "alpha3": "per"
+    },
+    {
+        "id": 608,
+        "text": "Philippinen",
+        "alpha2": "ph",
+        "alpha3": "phl"
+    },
+    {
+        "id": 616,
+        "text": "Polen",
+        "alpha2": "pl",
+        "alpha3": "pol"
+    },
+    {
+        "id": 620,
+        "text": "Portugal",
+        "alpha2": "pt",
+        "alpha3": "prt"
+    },
+    {
+        "id": 646,
+        "text": "Ruanda",
+        "alpha2": "rw",
+        "alpha3": "rwa"
+    },
+    {
+        "id": 642,
+        "text": "Rumänien",
+        "alpha2": "ro",
+        "alpha3": "rou"
+    },
+    {
+        "id": 643,
+        "text": "Russland",
+        "alpha2": "ru",
+        "alpha3": "rus"
+    },
+    {
+        "id": 90,
+        "text": "Salomonen",
+        "alpha2": "sb",
+        "alpha3": "slb"
+    },
+    {
+        "id": 894,
+        "text": "Sambia",
+        "alpha2": "zm",
+        "alpha3": "zmb"
+    },
+    {
+        "id": 882,
+        "text": "Samoa",
+        "alpha2": "ws",
+        "alpha3": "wsm"
+    },
+    {
+        "id": 674,
+        "text": "San Marino",
+        "alpha2": "sm",
+        "alpha3": "smr"
+    },
+    {
+        "id": 678,
+        "text": "São Tomé und Príncipe",
+        "alpha2": "st",
+        "alpha3": "stp"
+    },
+    {
+        "id": 682,
+        "text": "Saudi-Arabien",
+        "alpha2": "sa",
+        "alpha3": "sau"
+    },
+    {
+        "id": 752,
+        "text": "Schweden",
+        "alpha2": "se",
+        "alpha3": "swe"
+    },
+    {
+        "id": 756,
+        "text": "Schweiz",
+        "alpha2": "ch",
+        "alpha3": "che"
+    },
+    {
+        "id": 686,
+        "text": "Senegal",
+        "alpha2": "sn",
+        "alpha3": "sen"
+    },
+    {
+        "id": 688,
+        "text": "Serbien",
+        "alpha2": "rs",
+        "alpha3": "srb"
+    },
+    {
+        "id": 690,
+        "text": "Seychellen",
+        "alpha2": "sc",
+        "alpha3": "syc"
+    },
+    {
+        "id": 694,
+        "text": "Sierra Leone",
+        "alpha2": "sl",
+        "alpha3": "sle"
+    },
+    {
+        "id": 716,
+        "text": "Simbabwe",
+        "alpha2": "zw",
+        "alpha3": "zwe"
+    },
+    {
+        "id": 702,
+        "text": "Singapur",
+        "alpha2": "sg",
+        "alpha3": "sgp"
+    },
+    {
+        "id": 703,
+        "text": "Slowakei",
+        "alpha2": "sk",
+        "alpha3": "svk"
+    },
+    {
+        "id": 705,
+        "text": "Slowenien",
+        "alpha2": "si",
+        "alpha3": "svn"
+    },
+    {
+        "id": 706,
+        "text": "Somalia",
+        "alpha2": "so",
+        "alpha3": "som"
+    },
+    {
+        "id": 724,
+        "text": "Spanien",
+        "alpha2": "es",
+        "alpha3": "esp"
+    },
+    {
+        "id": 144,
+        "text": "Sri Lanka",
+        "alpha2": "lk",
+        "alpha3": "lka"
+    },
+    {
+        "id": 659,
+        "text": "St. Kitts und Nevis",
+        "alpha2": "kn",
+        "alpha3": "kna"
+    },
+    {
+        "id": 662,
+        "text": "St. Lucia",
+        "alpha2": "lc",
+        "alpha3": "lca"
+    },
+    {
+        "id": 670,
+        "text": "St. Vincent und die Grenadinen",
+        "alpha2": "vc",
+        "alpha3": "vct"
+    },
+    {
+        "id": 710,
+        "text": "Südafrika",
+        "alpha2": "za",
+        "alpha3": "zaf"
+    },
+    {
+        "id": 729,
+        "text": "Sudan",
+        "alpha2": "sd",
+        "alpha3": "sdn"
+    },
+    {
+        "id": 728,
+        "text": "Südsudan",
+        "alpha2": "ss",
+        "alpha3": "ssd"
+    },
+    {
+        "id": 740,
+        "text": "Suritext",
+        "alpha2": "sr",
+        "alpha3": "sur"
+    },
+    {
+        "id": 760,
+        "text": "Syrien",
+        "alpha2": "sy",
+        "alpha3": "syr"
+    },
+    {
+        "id": 762,
+        "text": "Tadschikistan",
+        "alpha2": "tj",
+        "alpha3": "tjk"
+    },
+    {
+        "id": 834,
+        "text": "Tansania",
+        "alpha2": "tz",
+        "alpha3": "tza"
+    },
+    {
+        "id": 764,
+        "text": "Thailand",
+        "alpha2": "th",
+        "alpha3": "tha"
+    },
+    {
+        "id": 768,
+        "text": "Togo",
+        "alpha2": "tg",
+        "alpha3": "tgo"
+    },
+    {
+        "id": 776,
+        "text": "Tonga",
+        "alpha2": "to",
+        "alpha3": "ton"
+    },
+    {
+        "id": 780,
+        "text": "Trinidad und Tobago",
+        "alpha2": "tt",
+        "alpha3": "tto"
+    },
+    {
+        "id": 148,
+        "text": "Tschad",
+        "alpha2": "td",
+        "alpha3": "tcd"
+    },
+    {
+        "id": 203,
+        "text": "Tschechien",
+        "alpha2": "cz",
+        "alpha3": "cze"
+    },
+    {
+        "id": 788,
+        "text": "Tunesien",
+        "alpha2": "tn",
+        "alpha3": "tun"
+    },
+    {
+        "id": 792,
+        "text": "Türkei",
+        "alpha2": "tr",
+        "alpha3": "tur"
+    },
+    {
+        "id": 795,
+        "text": "Turkmenistan",
+        "alpha2": "tm",
+        "alpha3": "tkm"
+    },
+    {
+        "id": 798,
+        "text": "Tuvalu",
+        "alpha2": "tv",
+        "alpha3": "tuv"
+    },
+    {
+        "id": 800,
+        "text": "Uganda",
+        "alpha2": "ug",
+        "alpha3": "uga"
+    },
+    {
+        "id": 804,
+        "text": "Ukraine",
+        "alpha2": "ua",
+        "alpha3": "ukr"
+    },
+    {
+        "id": 348,
+        "text": "Ungarn",
+        "alpha2": "hu",
+        "alpha3": "hun"
+    },
+    {
+        "id": 858,
+        "text": "Uruguay",
+        "alpha2": "uy",
+        "alpha3": "ury"
+    },
+    {
+        "id": 860,
+        "text": "Usbekistan",
+        "alpha2": "uz",
+        "alpha3": "uzb"
+    },
+    {
+        "id": 548,
+        "text": "Vanuatu",
+        "alpha2": "vu",
+        "alpha3": "vut"
+    },
+    {
+        "id": 862,
+        "text": "Venezuela",
+        "alpha2": "ve",
+        "alpha3": "ven"
+    },
+    {
+        "id": 784,
+        "text": "Vereinigte Arabische Emirate",
+        "alpha2": "ae",
+        "alpha3": "are"
+    },
+    {
+        "id": 840,
+        "text": "Vereinigte Staaten",
+        "alpha2": "us",
+        "alpha3": "usa"
+    },
+    {
+        "id": 826,
+        "text": "Vereinigtes Königreich",
+        "alpha2": "gb",
+        "alpha3": "gbr"
+    },
+    {
+        "id": 704,
+        "text": "Vietnam",
+        "alpha2": "vn",
+        "alpha3": "vnm"
+    },
+    {
+        "id": 140,
+        "text": "Zentral­afrikanische Republik",
+        "alpha2": "cf",
+        "alpha3": "caf"
+    },
+    {
+        "id": 196,
+        "text": "Zypern",
+        "alpha2": "cy",
+        "alpha3": "cyp"
+    }
+]
