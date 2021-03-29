@@ -58,7 +58,7 @@ Camunda: 8080
 
 [http://localhost:3000][srvURL]
 
- [backend]: <www.github.com/pvb89/imma-backend>
- [camunda]: <www.github.com/pvb89/imma-camunda>
+ [backend]: <https://www.github.com/pvb89/imma-backend>
+ [camunda]: <https://www.github.com/pvb89/imma-camunda>
  [nodeDL]: <https://nodejs.org/en/download/>
  [srvURL]: <http://localhost:3000>
