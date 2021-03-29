@@ -6,6 +6,8 @@ Digitization of matriculation process of the Technische Hochschule Brandenburg
 
 > This Repository hold the files for the Frontend
 
+![](https://i.ibb.co/Bs8rPbb/Frontend-Architektur.jpg)
+
 ### Links to releated Gits
 
 | Plugin | README |
