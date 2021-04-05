@@ -7,7 +7,7 @@ import Axios from 'axios'
 import GAuth from 'vue-google-oauth2'
 
 const gauthOption = {
-  clientId: process.env.VUE_APP_GOOGLEAUTH_CLIENTID,
+  clientId: "886486899739-h24t9ghtom4daj8omcfneo6k6f8c9dp0.apps.googleusercontent.com",
   scope: 'profile email',
   prompt: 'select_account'
 }

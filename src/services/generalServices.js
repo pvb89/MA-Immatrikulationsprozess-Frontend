@@ -1,6 +1,6 @@
 import Axios from 'axios';
 
-const url = process.env.VUE_APP_BACKEND_URL;
+const url = "https://pvb-backend.azurewebsites.net";
 
 export default {
   postCourseEntry(userData) {
