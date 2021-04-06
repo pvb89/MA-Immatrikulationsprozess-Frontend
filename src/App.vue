@@ -62,6 +62,10 @@ export default {
   }),
   components: {
     Navigationsbar
+  },
+  mounted() {
+    if(this.$store.getters.isAdmin && this.$store.getters.isLoggedIn) this.$router.push("/adminpanel");
+    if(this.$store.getters.isLoggedIn) this.$router.push("/status");
   }
 };
 </script>
