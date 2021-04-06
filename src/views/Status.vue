@@ -254,7 +254,6 @@ export default {
   },
   methods: {
     async upload(courseEntryId) {
-      console.log("courseEntryId", courseEntryId);
       await camundaServices.triggerProcess(courseEntryId);
     },
     loadDetails(id) {
