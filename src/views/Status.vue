@@ -291,7 +291,7 @@ export default {
       }.bind(this),
       5000
     );
-    await this._sleep(5000);
+    await this._sleep(2000);
     this.loadDataProgress = false;
   },
   beforeDestroy: function () {
