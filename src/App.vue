@@ -4,14 +4,14 @@
     <v-main class="mb-xs-5">
       <router-view />
     </v-main>
-    <v-footer color="primary white--text" inset app class="pt-1">
+    <v-footer color="primary white--text" inset app class="pt-2">
       <v-row align="center" justify="space-between">
         <v-col cols="12" sm="6">
           &copy;
           {{ new Date().getFullYear() }} —
           <strong>Patryk von Behren</strong>
         </v-col>
-        <v-col class="text-right" cols="12" sm="6">
+        <v-col class="text-right d-none d-sm-inline" cols="12" sm="6">
           <v-btn
             :href="data.link"
             target="_blank"
@@ -64,8 +64,11 @@ export default {
     Navigationsbar
   },
   mounted() {
-    if(this.$store.getters.isAdmin && this.$store.getters.isLoggedIn) this.$router.push("/adminpanel").catch(()=>{});
-    if(this.$store.getters.isLoggedIn) this.$router.push("/status").catch(()=>{});
+    if(this.$store.getters.isAdmin && this.$store.getters.isLoggedIn) {
+      this.$router.push("/adminpanel").catch(()=>{});
+    } else if(this.$store.getters.isLoggedIn) {
+      this.$router.push("/status").catch(()=>{});
+    }
   }
 };
 </script>

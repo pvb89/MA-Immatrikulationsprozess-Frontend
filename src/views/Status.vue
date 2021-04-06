@@ -1,7 +1,7 @@
 <template>
   <v-container class="fill-height main px-0">
     <v-row align="center" justify="center" class="mx-0 px-0 pb-0" v-if="!loadDataProgress">
-      <v-col cols="12" sm="10" md="8">
+      <v-col cols="12" sm="10" md="8" v-if="!loadDataProgress">
         <h4 class="text-center" v-if="courseEntrys.length === 0">
           Sie sind noch an keinem Studiengang eingeschrieben
         </h4>
@@ -219,14 +219,15 @@
           </v-card>
         </v-card>
       </v-col>
+      <v-col cols="12" align="center" v-if="loadDataProgress">
+        <v-progress-circular
+          :size="50"
+          :width="9"
+          color="primary"
+          indeterminate/>
+        <h4 class="pl-5 d-inline">Ihre Immatrikulationnsanträge werden geladen..</h4>
+       </v-col>
     </v-row>
-    <v-progress-circular
-       v-if="loadDataProgress"
-      :size="70"
-      :width="7"
-      color="purple"
-      indeterminate
-    ></v-progress-circular>
   </v-container>
 </template>
 
@@ -244,7 +245,7 @@ import camundaServices from "@/services/camundaServices.js";
 export default {
   data() {
     return {
-      loadDataProgress: false,
+      loadDataProgress: true,
       pufferId: null,
       e1: 1,
       stepper: false,
@@ -261,8 +262,13 @@ export default {
     };
   },
   methods: {
+    _sleep(ms) {
+      return new Promise((resolve) => setTimeout(resolve, ms));
+    },
     async upload(courseEntryId) {
-      await camundaServices.triggerProcess(courseEntryId);
+      if(this.$refs.formUpload.validate()) {
+        await camundaServices.triggerProcess(courseEntryId);
+      }
     },
     loadDetails(id) {
       this.pufferId = id;
@@ -278,7 +284,6 @@ export default {
     },
   },
   mounted() {
-    this.loadDataProgress = true;
     this.loadData();
     this.interval = setInterval(
       function () {
@@ -286,6 +291,7 @@ export default {
       }.bind(this),
       5000
     );
+    await this._sleep(5000);
     this.loadDataProgress = false;
   },
   beforeDestroy: function () {
