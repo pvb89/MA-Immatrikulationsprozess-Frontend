@@ -380,6 +380,7 @@ export default {
         healthInsuranceName: "",
         healthInsuranceNumber: 0,
         educationCertificateFile: "",
+        processId: ""
       },
       options: [
         {

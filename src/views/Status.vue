@@ -136,7 +136,12 @@
                     </v-card-text>
                     <v-card-actions>
                       <v-spacer />
-                      <v-btn color="primary" class="mb-2">Hochladen</v-btn>
+                      <v-btn
+                        color="primary"
+                        class="mb-2"
+                        @click="upload(antrag[0].id)"
+                        >Hochladen</v-btn
+                      >
                     </v-card-actions>
                   </v-card>
                 </v-form>
@@ -227,6 +232,7 @@
 
 <script>
 import generalServices from "@/services/generalServices.js";
+import camundaServices from "@/services/camundaServices.js";
 
 export default {
   data() {
@@ -242,13 +248,15 @@ export default {
         filePassbild: null,
       },
       rules: {
-        filePDF: [
-          (v) => !!v || "Bitte laden Sie eine Datei hoch"
-        ]
+        filePDF: [(v) => !!v || "Bitte laden Sie eine Datei hoch"],
       },
     };
   },
   methods: {
+    async upload(courseEntryId) {
+      console.log("courseEntryId", courseEntryId);
+      await camundaServices.triggerProcess(courseEntryId);
+    },
     loadDetails(id) {
       this.pufferId = id;
       this.stepper = true;

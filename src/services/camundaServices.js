@@ -12,5 +12,17 @@ export default {
       })
       .then(
         resp => resp.data)
+  },
+  async triggerProcess(courseEntryId) {
+    console.log("courseEntryId Inside", courseEntryId);
+    return Axios({
+        url: url + '/api/camunda/triggerProcess',
+        method: 'POST',
+        data: {
+          id: courseEntryId
+        },  
+      })
+      .then(
+        resp => resp.data)
   }
 };
