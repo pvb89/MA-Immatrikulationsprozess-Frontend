@@ -1,6 +1,6 @@
 <template>
   <v-container class="fill-height main px-0">
-    <v-row align="center" justify="center" class="mx-0 px-0 pb-0">
+    <v-row align="center" justify="center" class="mx-0 px-0 pb-0" v-if="!loadDataProgress">
       <v-col cols="12" sm="10" md="8">
         <h4 class="text-center" v-if="courseEntrys.length === 0">
           Sie sind noch an keinem Studiengang eingeschrieben
@@ -220,6 +220,13 @@
         </v-card>
       </v-col>
     </v-row>
+    <v-progress-circular
+       v-if="loadDataProgress"
+      :size="70"
+      :width="7"
+      color="purple"
+      indeterminate
+    ></v-progress-circular>
   </v-container>
 </template>
 
@@ -237,6 +244,7 @@ import camundaServices from "@/services/camundaServices.js";
 export default {
   data() {
     return {
+      loadDataProgress: false,
       pufferId: null,
       e1: 1,
       stepper: false,
@@ -270,6 +278,7 @@ export default {
     },
   },
   mounted() {
+    this.loadDataProgress = true;
     this.loadData();
     this.interval = setInterval(
       function () {
@@ -277,6 +286,7 @@ export default {
       }.bind(this),
       5000
     );
+    this.loadDataProgress = false;
   },
   beforeDestroy: function () {
     clearInterval(this.interval);
