@@ -4,7 +4,7 @@
     <v-main class="mb-xs-5">
       <router-view />
     </v-main>
-    <v-footer color="primary white--text" inset app class="pt-4">
+    <v-footer color="primary white--text" inset app class="pt-1">
       <v-row align="center" justify="space-between">
         <v-col cols="12" sm="6">
           &copy;
