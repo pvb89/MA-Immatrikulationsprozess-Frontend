@@ -3,7 +3,7 @@ import Axios from 'axios';
 const url = "https://pvb-backend.azurewebsites.net";
 
 export default {
-  prozessStarten(userData) {
+  async prozessStarten(userData) {
     return Axios({
         url: url + '/api/camunda/startProcess',
         method: 'POST',
