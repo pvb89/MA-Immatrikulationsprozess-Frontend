@@ -3,7 +3,7 @@ import Axios from 'axios';
 const url = "https://pvb-backend.azurewebsites.net";
 
 export default {
-  postCourseEntry(userData) {
+  async postCourseEntry(userData) {
     return Axios({
         url: url + '/api/course/entry',
         data: userData,
@@ -11,7 +11,7 @@ export default {
       })
       .then(resp => resp.data)
   },
-  postEducationCertificate(userData) {
+  async postEducationCertificate(userData) {
     return Axios({
         url: url + '/api/course/postEducationCertificate',
         data: userData,
@@ -19,7 +19,7 @@ export default {
       })
       .then(resp => resp.data)
   },
-  getCourseEntrys() {
+  async getCourseEntrys() {
     return Axios({
         url: url + '/api/course/entry',
         method: 'GET',
