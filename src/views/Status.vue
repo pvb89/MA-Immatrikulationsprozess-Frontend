@@ -1,6 +1,6 @@
 <template>
   <v-container class="fill-height main px-0">
-    <v-row align="center" justify="center" class="mx-0 px-0 pb-0" v-if="!loadDataProgress">
+    <v-row align="center" justify="center" class="mx-0 px-0 pb-0">
       <v-col cols="12" sm="10" md="8" v-if="!loadDataProgress">
         <h4 class="text-center" v-if="courseEntrys.length === 0">
           Sie sind noch an keinem Studiengang eingeschrieben
