@@ -283,7 +283,7 @@ export default {
       }
     },
   },
-  mounted() {
+  async mounted() {
     this.loadData();
     this.interval = setInterval(
       function () {
