@@ -32,9 +32,6 @@
 <script>
 import Navigationsbar from "./components/Navigationsbar";
 
-
-console.log("upload ging");
-
 export default {
   props: {
     source: String
