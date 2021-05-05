@@ -151,7 +151,7 @@ export default {
           // Benutzerbenachrichtigung
           this.showAlert("Sie wurden erfolgreich registriert", "success");
           // Sleep damit der User den Alert lesen kann
-          await this._sleep(1500);
+          await this._sleep(2500);
           this.$refs.form.reset();
           this.$router.push("/login");
         } catch (error) {
