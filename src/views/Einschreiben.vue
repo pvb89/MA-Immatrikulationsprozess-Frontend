@@ -184,7 +184,7 @@
                   />
                   <v-text-field
                     v-model="form.averageGrade"
-                    label="Durschnittsnote"
+                    label="Durchschnittsnote"
                     prepend-icon="mdi-school"
                     type="Number"
                     onkeydown="javascript: return event.keyCode === 190 || event.keyCode === 8 || event.keyCode === 46 ? true : !isNaN(Number(event.key))"
@@ -516,7 +516,7 @@ export default {
           this.dialogSuccess = true;
           await this._sleep(3000);
           this.dialogSuccess = false;
-          // this.$router.push("/status");
+          this.$router.push("/status");
         } catch (err) {
           // Benutzerbenachrichtigung
           this.dialog = false;
